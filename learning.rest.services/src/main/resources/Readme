@@ -1,0 +1,15 @@
+roles : 
+Company specific roles
+201 : Admin / A
+202 : Manager / M
+
+Application specific roles 
+203 : Requestor/Creator / R
+204 : Learner / L
+
+100 - New /N
+101 - Aprrove/A
+102 - Reject/R
+103 - Cancel/C
+104 - Withdraw/W
+105 - Enter/E
